@@ -20,4 +20,25 @@ $ cd mario_game
 ## How to Play Game
 https://youtu.be/p3hyStpClso
 
-## Code
+
+## About "Mario Game"
+### Goal
+    - 장애물을 피하는 무궁화 꽃이 피었습니다 게임
+
+### 구성
+    - 마리오(Player), 술래
+    - 아이템, 장애물, 게임 맵
+
+### Rule
+    - 시간 안에 결승점에 도착해야 한다.
+    - 술래가 뒤돌아 볼 때 움직이면 안 된다.
+
+### Team member role
+    게임 맵 및 로직 : 2명
+    캐릭터: 2명
+        
+### Project Duration
+    ~11/12 : 주제 및 사용할 기술 확정
+    ~11/24 : 모델링 및 맵 제작
+    ~11/29 : 코드 병합 및 테스트 → 제출
+      
